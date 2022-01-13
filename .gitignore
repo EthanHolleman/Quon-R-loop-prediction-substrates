@@ -1,4 +1,8 @@
 # Byte-compiled / optimized / DLL files
+
+SMRF-seq/
+log.txt
+
 __pycache__/
 *.py[cod]
 *$py.class
